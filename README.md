@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is for project of the course Data Scientist's Toolbox
+This is a project for the course Data Scientist's Toolbox
